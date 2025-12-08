@@ -1,6 +1,3 @@
 [build]
-  # Choose the correct command for your framework (e.g., for Remix or Hydrogen)
   command = "npm run build"
-  
-  # Choose the correct output directory (e.g., "build", "dist", "public")
-  publish = "dist" 
+  publish = "dist"
